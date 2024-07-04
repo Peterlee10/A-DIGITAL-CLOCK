@@ -1,0 +1,2 @@
+# A-DIGITAL-CLOCK
+A DIGITAL-CLOCK is a basic program that displays the current time on a screen.
